@@ -8,7 +8,7 @@ namespace Connection
 {
     class API
     {
-        private static string ApiKey = "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";
+        private static string ApiKey = "API KEY ICI";
         public static string GetApiKey()
         {
             return ApiKey;
